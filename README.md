@@ -1,16 +1,13 @@
-## Hi there 👋
+# ✨introduction
+안녕하세요👋, 저는 영남대학교 컴퓨터학부 2학년에 재학 중인 **김수민**입니다.
+현재 대학교에서 컴퓨터공학을 전공하며 프로그래밍의 기초를 탄탄히 다지고 있습니다.
 
-<!--
-**s00m11n/s00m11n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📚Learning & Interests
+🐧**오픈소스**: Git과 SourceTree를 활용한 버전 관리 시스템의 기초를 익혀, 협업 환경에 적응하기 위해 노력 중입니다.
 
-Here are some ideas to get you started:
+🔌**논리회로**: 이진법 기반의 수 체계 변환과 게이트 단위의 논리 연산에 대해 공부 중입니다. LogicWorks와 같은 시뮬레이션 툴을 활용해 실제 회로 동작을 시뮬레이션해 본 경험이 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔢**이산수학**: 논리적 추론 과정을 통해 복잡한 문제의 해를 구하는 사고방식을 기르고 있습니다.
+
+# 🔗Links
+**E-mail** : qe121110@gmail.com
